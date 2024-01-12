@@ -2,7 +2,6 @@ package com.library.library.service;
 import com.library.library.Model.Patron;
 import com.library.library.Repository.PatronRepository;
 import com.library.library.Service.Implementation.PatronServiceImpl;
-import com.library.library.Service.Interface.PatronService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.InjectMocks;
